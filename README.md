@@ -4,8 +4,7 @@
 
 ## I'm UX/UI Designer and I started my path as Front-End developer last year!
 
-- ![businesscat](./img/cat.jpg) I'm currently working on a financial management platform app, my role are related with [UX-UI activities][kingfield]!
-[<img align="left" alt="businesscat" width="22px" src="./img/cat.jpg" />]
+- ![businesscat]<img align="left" alt="businesscat" width="32px" src="./img/cat.jpg" /> I'm currently working on a financial management platform app, my role are related with [UX-UI activities][kingfield]!
 - ![matrix](./img/mac_cat.gif) I'm currently learning Python, Axure(UI wireframe) and Design Systems.
 - ![allThings](./img/scream.jpg) I’m looking to collaborate as React Front End developer.
 - ![matrix](./img/matrix.gif) Goal 2021: Finish WEB FULL-STACK DEVELOPER & COMPUTER SCIENCE bootcamp.
