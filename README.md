@@ -1,6 +1,6 @@
 ### Hi there, I'm Monica Avila - aka [Godzimona][website] 👋
 
-<img align="right" alt="Godzimona" src="./img/moomin.png" width="350" height="504" />
+<img align="right" alt="Godzimona" src="./img/moomin.png" width="300" height="432" />
 
 ## I'm UX/UI Designer and I started my path as Front-End developer last year!
 
@@ -13,11 +13,11 @@
 
 ---
 
-<a href="https://discord.gg/wwGZuh6x">
-  <img align="center" alt="Beneta's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a align="center" href="https://discord.gg/wwGZuh6x" target="blank">
+  <img alt="Beneta's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.linkedin.com/in/avilamonica/">
-  <img align="center" alt="AvilaMonica's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a align="center" href="https://www.linkedin.com/in/avilamonica/" target="blank">
+  <img alt="AvilaMonica's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
 
