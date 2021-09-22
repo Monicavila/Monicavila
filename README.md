@@ -8,17 +8,18 @@
 - <img align="left" alt="matrix" width="32px" src="./img/mac_cat.gif" /> I'm currently learning Python, Axure(UI wireframe) and Design Systems.
 - <img align="left" alt="matrix" width="32px" src="./img/matrix.gif" /> Goal 2021: Finish WEB FULL-STACK DEVELOPER & COMPUTER SCIENCE bootcamp.
 - <img align="left" alt="pizza" width="32px" src="./img/pizza.gif" /> Fun fact: I'm a Ravenclaw, I have two dogs them inspire my fictitious user names, I love Pizza and my Husband as well.
-- <img align="left" alt="allThings" width="32px" src="./img/scream.jpg" /> I’m looking to collaborate as React Front End developer.
-<br />
+- <img align="left" alt="allThings" width="32px" src="./img/scream.jpg" /><br /> I’m looking to collaborate as React Front End developer.
+
 
 ---
-
-<a align="center" href="https://discord.gg/wwGZuh6x" target="blank">
+<p align="center">
+<a href="https://discord.gg/wwGZuh6x" target="blank">
   <img alt="Beneta's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a align="center" href="https://www.linkedin.com/in/avilamonica/" target="blank">
+<a href="https://www.linkedin.com/in/avilamonica/" target="blank">
   <img alt="AvilaMonica's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+</p>
 <br />
 
 ---
