@@ -7,13 +7,13 @@
 - <img align="left" alt="businesscat" width="32px" src="./img/cat.jpg" /> I'm currently working on a financial management platform app, my role are related with [UX-UI activities][kingfield]!
 - <img align="left" alt="matrix" width="32px" src="./img/mac_cat.gif" /> I'm currently learning Python, Axure(UI wireframe) and Design Systems.
 - <img align="left" alt="allThings" width="32px" src="./img/scream.jpg" /> I’m looking to collaborate as React Front End developer.
-- <img align="left" alt="matrix" width="32px" src="./img/matrix.gi" /> Goal 2021: Finish WEB FULL-STACK DEVELOPER & COMPUTER SCIENCE bootcamp.
+- <img align="left" alt="matrix" width="32px" src="./img/matrix.gif" /> Goal 2021: Finish WEB FULL-STACK DEVELOPER & COMPUTER SCIENCE bootcamp.
 - <img align="left" alt="pizza" width="32px" src="./img/pizza.gif" /> Fun fact: I'm a Ravenclaw, I have two dogs them inspire my fictitious user names, I love Pizza and my Husband as well.
-<br />
 <br />
 
 ---
 
+<br />
 <a href="https://discord.gg/wwGZuh6x">
   <img align="center" alt="Beneta's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -21,10 +21,10 @@
   <img align="center" alt="AvilaMonica's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
-<br />
 
 ---
 
+<br />
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Monicavila/Monicavila">
@@ -35,12 +35,12 @@
 </a>
 
 <a href="https://github.com/Monicavila/RVMA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Monicavila&repo=video-meeting-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Monicavila&repo=RVMA&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/Monicavila/Fusion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Monicavila&repo=constructive-feedback-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Monicavila&repo=Fusion&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 
