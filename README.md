@@ -5,6 +5,7 @@
 ## I'm UX/UI Designer and I started my path as Front-End developer last year!
 
 - ![businesscat](./img/cat.jpg) I'm currently working on a financial management platform app, my role are related with [UX-UI activities][kingfield]!
+[<img align="left" alt="businesscat" width="22px" src="./img/cat.jpg" />]
 - ![matrix](./img/mac_cat.gif) I'm currently learning Python, Axure(UI wireframe) and Design Systems.
 - ![allThings](./img/scream.jpg) I’m looking to collaborate as React Front End developer.
 - ![matrix](./img/matrix.gif) Goal 2021: Finish WEB FULL-STACK DEVELOPER & COMPUTER SCIENCE bootcamp.
@@ -12,7 +13,7 @@
 <br />
 <br />
 
---
+---
 
 <a href="https://discord.gg/wwGZuh6x">
   <img align="center" alt="Beneta's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -23,7 +24,7 @@
 <br />
 <br />
 
---
+---
 
 ## &#x1f4c8; GitHub Stats
 
