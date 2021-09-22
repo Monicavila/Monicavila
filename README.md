@@ -13,12 +13,12 @@
 
 ---
 <p align="center">
-<a href="https://discord.gg/wwGZuh6x" target="blank">
-  <img alt="Beneta's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/avilamonica/" target="blank">
-  <img alt="AvilaMonica's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+    <a href="https://www.linkedin.com/in/avilamonica/" target="blank">
+    <img alt="AvilaMonica's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    </a>
+    <a href="https://discord.gg/wwGZuh6x" target="blank">
+    <img alt="Beneta's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+    </a>
 </p>
 <br />
 
