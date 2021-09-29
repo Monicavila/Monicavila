@@ -8,7 +8,7 @@
 - <img align="left" alt="matrix" width="32px" src="./img/mac_cat.gif" /> I'm currently learning Python, Axure(UI wireframe) and Design Systems.
 - <img align="left" alt="matrix" width="32px" src="./img/matrix.gif" /> Goal 2021: Finish WEB FULL-STACK DEVELOPER & COMPUTER SCIENCE bootcamp.
 - <img align="left" alt="pizza" width="32px" src="./img/pizza.gif" /> Fun fact: I'm a Ravenclaw, I have two dogs them inspire my fictitious users names, I love Pizza and my Husband as well.
-- <img align="left" alt="allThings" width="32px" src="./img/scream.jpg" /><br /> I’m looking to collaborate as prodcut developer.
+- <img align="left" alt="allThings" width="32px" src="./img/scream.jpg" /><br /> I’m looking to collaborate as UX/UI developer.
 
 
 ---
