@@ -5,8 +5,8 @@
 ## I'm UX/UI Designer and I started my path as Front-End in 2020!
 
 - <img align="left" alt="businesscat" width="32px" src="./img/cat.jpg" /> I'm currently working on a financial management platform app, my role are related with [UX-UI activities][kingfield]!
-- <img align="left" alt="matrix" width="32px" src="./img/mac_cat.gif" /> I'm currently learning Python, Axure(UI wireframe) and Design Systems.
-- <img align="left" alt="matrix" width="32px" src="./img/matrix.gif" /> Goal 2022: Start Accesibility certification and create a full Design System.
+- <img align="left" alt="matrix" width="32px" src="./img/mac_cat.gif" /> I'm currently learning new Universal Methods of Design, Axure(UI wireframe) and Design Systems.
+- <img align="left" alt="matrix" width="32px" src="./img/matrix.gif" /> Goal 2022: Start Accessibility certification and create a full Design System.
 - <img align="left" alt="pizza" width="32px" src="./img/pizza.gif" /> Fun fact: I'm a Ravenclaw, I have two dogs them inspire my fictitious users names, I love Pizza and my Husband as well.
 - <img align="left" alt="allThings" width="32px" src="./img/scream.jpg" /><br /> I’m looking to collaborate as UX/UI Product Designer.
 
