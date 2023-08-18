@@ -5,9 +5,9 @@
 ## I'm UX/UI Designer and I started my path as Front-End in 2020!
 
 - <div align="left"><img align="left" alt="businesscat" width="32px" src="./img/cat.jpg" /> <p>I'm currently working on a financial management platform app, my role are related with [UX-UI activities][kingfield]!<p/></div>
-- <div align="left"><img align="left" alt="matrix" width="32px" src="./img/mac_cat.gif" /><p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm currently learning new Universal Methods of Design, Design Systems, and Poduct Psychology Masterclass.<p/></div>
-- <div align="left"><img align="left" alt="pizza" width="32px" src="./img/pizza.gif" /> <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I'm a Ravenclaw, I have two dogs them inspire my fictitious users names, I love Pizza and travel.<p/></div>
-- <div align="left"><img align="left" alt="matrix" width="32px" src="./img/matrix.gif" /> <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Goal 2024: Start Accessibility certification and create a full Design System.<p/></div>
+- <div align="left"><img align="left" alt="matrix" width="32px" src="./img/mac_cat.gif" /><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm currently learning new Universal Methods of Design, Design &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Systems, and Poduct Psychology Masterclass.<p/></div>
+- <div align="left"><img align="left" alt="pizza" width="32px" src="./img/pizza.gif" /> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I'm a Ravenclaw, I have two dogs them inspire my fictitious &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;users names, I love Pizza and travel.<p/></div>
+- <div align="left"><img align="left" alt="matrix" width="32px" src="./img/matrix.gif" /> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Goal 2024: Start Accessibility certification and create a full Design &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.<p/></div>
 - <div align="left"><img align="left" alt="allThings" width="32px" src="./img/scream.jpg" /> <p>I’m looking to collaborate as Growth Oriented Product Designer.<p/></div>
 
 
