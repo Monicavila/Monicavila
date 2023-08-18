@@ -4,7 +4,8 @@
 
 ## I'm UX/UI Designer and I started my path as Front-End in 2020!
 
-- <div align="left"><img align="left" alt="businesscat" width="32px" src="./img/cat.jpg" /> <p>I'm currently working on a financial management platform app, my role are related with <p/></div>[UX-UI activities][bitso]!
+- <div align="left"><img align="left" alt="businesscat" width="32px" src="./img/cat.jpg" /> <p>I'm currently working on a financial management platform app, my role are related with <A HREF="[bitso]"> Product design activities </A>
+<p/></div>
 - <div align="left"><img align="left" alt="matrix" width="32px" src="./img/mac_cat.gif" /><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm currently learning new Universal Methods of Design, Design &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Systems, and Poduct Psychology Masterclass.<p/></div>
 - <div align="left"><img align="left" alt="pizza" width="32px" src="./img/pizza.gif" /> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I'm a Ravenclaw, I have two dogs them inspire my fictitious &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;users names, I love Pizza and travel.<p/></div>
 - <div align="left"><img align="left" alt="matrix" width="32px" src="./img/matrix.gif" /> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Goal 2024: Start Accessibility certification and create a full Design &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.<p/></div>
@@ -45,7 +46,7 @@
 
 <!-- links to actual job and portfolio -->
 
-[website]: <http://monicavila.com/> "Monicavila Portfolio"
+[website]: <https://www.figma.com/proto/IkKXD6lysIOozmXfQXBkId/Monica-(PD)-Portfolio-2023?page-id=0%3A1&type=design&node-id=1-1608&viewport=1086%2C590%2C0.04&t=DQuW8ochPTFbZkUV-1&scaling=min-zoom&starting-point-node-id=1%3A23&mode=design> "Monicavila Portfolio"
 [bitso]: <https://bitso.com/> "Bito product"
 
 
