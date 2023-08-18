@@ -45,7 +45,7 @@
 
 <!-- links to actual job and portfolio -->
 
-[website]: <https://www.figma.com/proto/IkKXD6lysIOozmXfQXBkId/Monica-(PD)-Portfolio-2023?page-id=0%3A1&type=design&node-id=1-1608&viewport=1086%2C590%2C0.04&t=DQuW8ochPTFbZkUV-1&scaling=min-zoom&starting-point-node-id=1%3A23&mode=design> "Monicavila Portfolio"
+[website]: <[https://www.figma.com/proto/IkKXD6lysIOozmXfQXBkId/Monica-(PD)-Portfolio-2023?page-id=0%3A1&type=design&node-id=1-1608&viewport=1086%2C590%2C0.04&t=DQuW8ochPTFbZkUV-1&scaling=min-zoom&starting-point-node-id=1%3A23&mode=design](https://www.figma.com/proto/IkKXD6lysIOozmXfQXBkId/Monica-(PD)-Portfolio-2023?page-id=0%3A1&type=design&node-id=1-23&viewport=1422%2C659%2C0.1&t=szKEUOH7n76Df1Kq-1&scaling=min-zoom&starting-point-node-id=1%3A23&mode=design)> "Monicavila Portfolio"
 
 
 <!-- Resources -->
