@@ -2,7 +2,7 @@
 
 <img align="right" alt="Godzimona" src="./img/moomin.png" width="300" height="432" />
 
-## I'm UX/UI Designer and I started my path as Front-End in 2020!
+## I'm UX/UI/Product Designer and I started my path as Front-End in 2020!
 
 - <div align="left"><img align="left" alt="businesscat" width="32px" src="./img/cat.jpg" /> <p>I'm currently working on a financial management platform app, my role are related with <A HREF="https://bitso.com/"> Product design activities </A>!<p/></div>
 - <div align="left"><img align="left" alt="matrix" width="32px" src="./img/mac_cat.gif" /><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm currently learning new Universal Methods of Design, Design &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Systems, and Poduct Psychology.<p/></div>
